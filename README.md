@@ -58,6 +58,7 @@ There is a slight negative correlation between public health measure stringency 
 4.   **Vaccination and Mortality**:
 
 4.1. Impact of Vaccination on Death Rates:
+
 ![death rates](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/image%20/death%20rate.png)
 
 The XGB model is trained using features related to vaccination coverage, full vaccination rate, extreme poverty rate, population density, and the two underlying health indicators including cardiovascular effect and diabetes prevalence to predict death rates. Root Mean Squared Error (RMSE) equals approximately 258.86 which is considered the XGB model is appropriate. As in Figure 10, features with higher absolute SHAP values have a greater impact on the predictions. It helps in understanding the direction and magnitude of the effect. A low full vaccination rate increases the death rate when the COVID-19 wave comes up.
