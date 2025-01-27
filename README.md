@@ -38,12 +38,17 @@
    - Four distinct COVID-19 waves in Australia, with a significant decoupling of case and death rates post-vaccination.
    - Rapid vaccination rollout helped mitigate the Omicron wave's impacts.
 
-  ![Pandemic Period](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/image%20/pandemic%20period.png)
+![Pandemic Period](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/image%20/pandemic%20period.png)
+  
 Australia experienced four major COVID-19 waves, with early border closures and a robust vaccination drive keeping initial infection rates low. The Delta variant prompted policy shifts, while the Omicron surge in 2021 tested healthcare systems despite high vaccination coverage, leading to increased fatalities and evolving pandemic management strategies.
+
 
 2. **Clustering Analysis**:
    - Countries in the same cluster exhibited shared pandemic characteristics, highlighting the role of socioeconomic factors in shaping responses.
+   - 
+![clustering](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/image%20/clustering.png)
 
+A world map visualization of clustering analysis highlighted geographic distributions, with high-income countries (Cluster 0) concentrated in Europe, North America, and parts of Asia and Oceania, while Cluster 1 included countries across Africa, Asia, and Latin America. Cluster 2 was limited to China and India, emphasizing their unique demographic and population dynamics. The analysis demonstrated how economic capabilities and demographics shaped countries’ pandemic experiences and responses. These findings underscore the importance of tailoring pandemic strategies to specific cluster needs and fostering collaboration and resource sharing among similar nations. Future research should investigate evolving factors like vaccination uptake and policy adaptations for a comprehensive understanding of pandemic responses.
 3. **Vaccination and Mortality**:
    - Vaccination rates significantly correlated with reduced ICU admissions and deaths, especially among high-risk age groups.
 
