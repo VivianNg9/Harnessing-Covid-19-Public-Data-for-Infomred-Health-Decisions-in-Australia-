@@ -1,10 +1,16 @@
 # __<center>Harnessing Covid-19 Public Data for Informed Health Decision in Australia</center>__
-[This project](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/Harnessing%20Covid-19%20Public%20Health%20Data%20for%20Informed%20Health%20Decisions%20in%20Australia.pdf) applies data-driven methods to analyze and understand the COVID-19 pandemic in Australia. By combining descriptive analysis, K-Means clustering, and hypothesis testing, the project generates actionable insights to support public health policies and pandemic response strategies.
+[This project](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/Harnessing%20Covid-19%20Public%20Health%20Data%20for%20Informed%20Health%20Decisions%20in%20Australia.pdf) delivers key insights on the COVID-19 pandemic to support the Agency for Clinical Innovation (ACI) at NSW Health in crafting data-informed public health strategies. By analyzing extensive publicly available COVID-19 data, both nationally and internationally, the project applies descriptive analysis, K-Means clustering, hypothesis testing to map the pandemic’s trajectory and assess the effectiveness of interventions.
 
+## Tools 
+- **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, SciPy).
+- **Data Sources**: [Our World in Data (OWID)](https://github.com/owid/covid-19-data/tree/master/public/data)
+- **Statistical Methods**: Correlation analysis, hypothesis testing, and regression models.
+- **Machine Learning Models**: K-Means clustering, SHAP for interpretability, XGBoost for mortality predictions.
+  
 ## Objectives
 
 1. Explore global and national trends to understand pandemic dynamics.
-2. Analyze demographic, socioeconomic, and policy-related factors influencing COVID-19 outcomes.
+2. Analyse demographic, socioeconomic, and policy-related factors influencing COVID-19 outcomes.
 3. Identify key predictors of mortality, vaccination impacts, and healthcare outcomes using statistical and machine learning techniques.
 
 ## Analytical Methods
@@ -32,6 +38,9 @@
    - Four distinct COVID-19 waves in Australia, with a significant decoupling of case and death rates post-vaccination.
    - Rapid vaccination rollout helped mitigate the Omicron wave's impacts.
 
+  ![Pandemic Period](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/image%20/pandemic%20period.png)
+Australia experienced four major COVID-19 waves, with early border closures and a robust vaccination drive keeping initial infection rates low. The Delta variant prompted policy shifts, while the Omicron surge in 2021 tested healthcare systems despite high vaccination coverage, leading to increased fatalities and evolving pandemic management strategies.
+
 2. **Clustering Analysis**:
    - Countries in the same cluster exhibited shared pandemic characteristics, highlighting the role of socioeconomic factors in shaping responses.
 
@@ -41,17 +50,6 @@
 4. **Policy Effectiveness**:
    - Moderate relationship between policy stringency and R-values, suggesting that other factors influenced the outcomes.
 
-## Tools and Technologies
-- **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, SciPy).
-- **Data Sources**: Our World in Data (OWID), Australian Bureau of Statistics, WHO.
-- **Statistical Methods**: Correlation analysis, hypothesis testing, and regression models.
-- **Machine Learning Models**: K-Means clustering, SHAP for interpretability, XGBoost for mortality predictions.
-
-## Visualizations
-To illustrate these insights, the repository includes:
-- Line charts depicting pandemic waves and vaccination rollouts.
-- Clustering visualizations showing country groupings.
-- Regression and SHAP plots for predictors of mortality.
 
 ## Conclusion
 This project demonstrates the power of analytical tools in shaping pandemic responses and public health policies. By leveraging descriptive, clustering, and statistical methods, it provides a holistic view of the pandemic's impacts and actionable insights for informed decision-making.
