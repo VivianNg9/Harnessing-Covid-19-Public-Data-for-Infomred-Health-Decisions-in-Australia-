@@ -1,5 +1,7 @@
 # __<center>Harnessing Covid-19 Public Data for Informed Health Decision in Australia</center>__
-[This project](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/Harnessing%20Covid-19%20Public%20Health%20Data%20for%20Informed%20Health%20Decisions%20in%20Australia.pdf) delivers key insights on the COVID-19 pandemic to support the Agency for Clinical Innovation (ACI) at NSW Health in crafting data-informed public health strategies. By analyzing extensive publicly available COVID-19 data, both nationally and internationally, the project applies descriptive analysis, K-Means clustering, hypothesis testing to map the pandemic’s trajectory and assess the effectiveness of interventions.
+This project delivers key insights on the COVID-19 pandemic to support the Agency for Clinical Innovation (ACI) at NSW Health in crafting data-informed public health strategies. By analyzing extensive publicly available COVID-19 data, both nationally and internationally, the project applies descriptive analysis, K-Means clustering, hypothesis testing to map the pandemic’s trajectory and assess the effectiveness of interventions.
+
+*Full report can be found [here](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/Harnessing%20Covid-19%20Public%20Data%20for%20Informed%20Health%20Decisions%20in%20Australia.pdf)*
 
 ## Tools 
 - **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, SciPy).
@@ -44,7 +46,7 @@ Australia experienced four major COVID-19 waves, with early border closures and 
 
 ![clustering](https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/image%20/clustering.png)
 
-A world map visualization of clustering analysis highlighted geographic distributions, with high-income countries (Cluster 0) concentrated in Europe, North America, and parts of Asia and Oceania, while Cluster 1 included countries across Africa, Asia, and Latin America. Cluster 2 was limited to China and India, emphasizing their unique demographic and population dynamics. The analysis demonstrated how economic capabilities and demographics shaped countries’ pandemic experiences and responses. These findings underscore the importance of tailoring pandemic strategies to specific cluster needs and fostering collaboration and resource sharing among similar nations. Future research should investigate evolving factors like vaccination uptake and policy adaptations for a comprehensive understanding of pandemic responses.
+A world map visualisation of clustering analysis highlighted geographic distributions, with high-income countries (Cluster 0) concentrated in Europe, North America, and parts of Asia and Oceania, while Cluster 1 included countries across Africa, Asia, and Latin America. Cluster 2 was limited to China and India, emphasizing their unique demographic and population dynamics. The analysis demonstrated how economic capabilities and demographics shaped countries’ pandemic experiences and responses. These findings underscore the importance of tailoring pandemic strategies to specific cluster needs and fostering collaboration and resource sharing among similar nations. Future research should investigate evolving factors like vaccination uptake and policy adaptations for a comprehensive understanding of pandemic responses.
 
 3. **Policy Effectiveness**:
 
